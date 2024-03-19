@@ -17,3 +17,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/faysal164143/infMax
+BugReports: https://github.com/faysal164143/infMax/issues
