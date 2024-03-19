@@ -1,0 +1,19 @@
+Package: infMax
+Title: Statistical Inference on Two-Parameter Maxwell Distributions
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Faysal A", "Chowdhury",  "fchowdhury@fgcu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0003-0670-4332")),
+    person("Kalimuthu", "Krishnamoorthy", "krishna@louisiana.edu", role=c("aut"), comment= c(ORCID= "0000-0002-3919-918X")))
+Description: Density, distribution function, qunatile
+            function, and generating random numbers from two-parameter Maxwell distibution
+            with location parameter "mu", and scale parameter "sigma". 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
